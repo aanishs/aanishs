@@ -62,7 +62,7 @@
 >
 > [from *Dunning* + *Kruger*, after the 1999 effect] &nbsp; *SEE ALSO* E *(both audit what you'd rather not look at)*. &nbsp; *— shipped.* &nbsp; [repo ↗](https://github.com/aanishs/dunning-kruger)
 >
-> <sub>first commit <!--fc:aanishs/dunning-kruger-->—<!--/fc--> · last commit <!--lc:aanishs/dunning-kruger-->—<!--/lc--></sub>
+> <sub>first commit <!--fc:aanishs/dunning-kruger-->2026-06-23<!--/fc--> · last commit <!--lc:aanishs/dunning-kruger-->2026-06-23<!--/lc--></sub>
 
 > **E** &nbsp; **em–dash** &nbsp; /ˈɛm.dæʃ/ &nbsp;·&nbsp; (EM-dash) &nbsp;·&nbsp; *n.* &nbsp;·&nbsp; *(open source · skill)*
 >
