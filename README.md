@@ -28,11 +28,9 @@
 > # A &nbsp;·&nbsp; aanish
 > /ˈɑː.nɪʃ/ &nbsp;·&nbsp; (AH-nish) &nbsp;·&nbsp; *proper n.*
 >
-> **1 :** technical co-founder at **Simplest Healthcare** — builds [CoralEHR](https://coralehr.com), an AI-native EHR for behavioral-health care, alongside the clinicians who use it. **2 a :** an engineer who taught himself FHIR and builds AI agents on top of it; **b :** has also led go-to-market — at home in the codebase and on the call; **c :** *(by extension)* ships a project per letter of the alphabet to prove the point. **3 :** *(informal)* happiest in the ambiguous 0→1, where nothing is defined yet.
+> **1 :** technical co-founder at **Simplest Healthcare** - builds CoralEHR an AI-native EHR for behavioral-health care, alongside the clinicians who use it. **2 a :** an engineer who taught himself FHIR and builds AI agents on top of it; **b :** has also led go-to-market — at home in the codebase and on the call; **c :** *(by extension)* ships a project per letter of the alphabet to prove the point. **3 :** *(informal)* happiest in the ambiguous 0→1, where nothing is defined yet.
 >
 > *— adj.* **TypeScript-pilled** : holding that types are a feature, not a tax.
->
-> *— v.* **to aanish** *(tr.)* : to take a vague idea to shipped by running agents in parallel and writing the loop, not the prompt *‹we'll aanish it by Friday›*.
 >
 > *alma mater* &nbsp; <img src="assets/usc-trojans.svg" alt="USC" height="40">
 >
@@ -42,7 +40,7 @@
 >
 > **1 :** an open-source, agent-native clinical backend — typed clinical primitives on Postgres with FHIR R4 generated underneath, so you ship FHIR-safe apps without running a FHIR server. **2 :** built so agents can safely read and aggregate patient records.
 >
-> *In a sentence:* *‹the agent-native clinical backend.›*
+> *In a sentence:* *‹bonfireDB democratizes building in healthcare.›*
 >
 > [from *bonfire* + *DB*] &nbsp; *SEE ALSO* C *(the same FHIR-safe thesis)*, S *(sibling OSS)*. &nbsp; *— building.* &nbsp; [site ↗](https://bonfiredb.dev)
 
@@ -50,7 +48,7 @@
 >
 > **1 :** an AI-native electronic health record for private-pay behavioral health. **2 :** the flagship product of **Simplest Healthcare**.
 >
-> *In a sentence:* *‹built with clinicians, not just for them.›*
+> *In a sentence:* *‹CoralEHR is built with clinicians, not just for them.›*
 >
 > [from *coral* + *EHR* (electronic health record); first attested September 2025] &nbsp; *SEE ALSO* T *(sibling app)*, B *(the backend thesis)*. &nbsp; *— live.* &nbsp; [site ↗](https://coralehr.com)
 
@@ -68,7 +66,7 @@
 >
 > **1 :** an open-source compliance engine that plugs into Claude Code — scans your infrastructure for HIPAA / SOC 2 / GDPR / PCI / ISO gaps, drafts the fixes, and emits signed audit evidence. **2 :** the open-source answer to a five-figure compliance SaaS.
 >
-> *In a sentence:* *‹compliance without the black box — or the invoice.›*
+> *In a sentence:* *‹compliance without the black box - or the invoice.›*
 >
 > [from *em-dash*, the punctuation that outs AI prose — a wink at the opaque compliance vendors it undercuts] &nbsp; *SEE ALSO* D *(both audit what you'd rather not look at)*. &nbsp; *— shipped.* &nbsp; [repo ↗](https://github.com/aanishs/em-dash)
 >
@@ -77,8 +75,6 @@
 > **P** &nbsp; **pok·er·in·site** &nbsp; /ˈpoʊ.kər.ɪnˌsaɪt/ &nbsp;·&nbsp; (POH-kur-in-syt) &nbsp;·&nbsp; *n.* &nbsp;·&nbsp; *(for fun)*
 >
 > **1 :** a for-fun poker-analytics app — turns your hands into hand-, player-, and game-level insight, with bankroll tracking. *(React · Firebase.)*
->
-> *In a sentence:* *‹the math you wish you'd run before the river.›*
 >
 > [from *poker* + *insight*; cf. *on-site* / *in-sight*] &nbsp; *cf.* D *(both score you against the record you'd rather not see)*. &nbsp; *— shipped.* &nbsp; [site ↗](https://pokerin.site) &nbsp;·&nbsp; [repo ↗](https://github.com/aanishs/pokerinsite)
 >
@@ -98,13 +94,11 @@
 >
 > **1 :** Tourette's tic-tracking with remote therapeutic monitoring. **2 :** a product of **Simplest Healthcare**, sibling to CoralEHR.
 >
-> *In a sentence:* *‹measure the tic, then the therapy can go remote.›*
->
 > [from *tic* + *vision*; first attested January 2025] &nbsp; *SEE ALSO* C *(sibling product)*, B *(the FHIR-safe thesis)*. &nbsp; *— live.* &nbsp; [site ↗](https://ticvision.io)
 
 > **W** &nbsp; **wave·length** &nbsp; /ˈweɪv.lɛŋθ/ &nbsp;·&nbsp; (WAYV-length) &nbsp;·&nbsp; *n.* &nbsp;·&nbsp; *(for fun · game)*
 >
-> **1 :** a multiplayer compatibility game — answer prompts on a 0–100 spectrum, share a link, and see how aligned you and a friend are, scored **0–10** from *"Opposite Poles Attract"* to *"A Match Made in Heaven."* **2 :** the question "are we on the same one?", made playable.
+> **1 :** a multiplayer compatibility game — answer prompts on a 0–100 spectrum, share a link, and see how aligned you and a friend are.
 >
 > *In a sentence:* *‹send the link; find out if you're actually on the same wavelength.›*
 >
