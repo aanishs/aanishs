@@ -70,7 +70,7 @@
 >
 > [from *em-dash*, the punctuation that outs AI prose — a wink at the opaque compliance vendors it undercuts] &nbsp; *SEE ALSO* D *(both audit what you'd rather not look at)*. &nbsp; *— shipped.* &nbsp; [repo ↗](https://github.com/aanishs/em-dash)
 >
-> <sub>first commit 2026-03-22 · last commit <!--lc:aanishs/em-dash-->2026-04-06<!--/lc--></sub>
+> <sub>first commit 2026-03-22 · last commit <!--lc:aanishs/em-dash-->2026-07-10<!--/lc--></sub>
 
 > **P** &nbsp; **pok·er·in·site** &nbsp; /ˈpoʊ.kər.ɪnˌsaɪt/ &nbsp;·&nbsp; (POH-kur-in-syt) &nbsp;·&nbsp; *n.* &nbsp;·&nbsp; *(for fun)*
 >
